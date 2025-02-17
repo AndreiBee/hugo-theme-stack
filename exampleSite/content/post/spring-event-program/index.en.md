@@ -1,168 +1,111 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+author = "Adolf Inneman"
+title = "Spring 2025 Event Program"
+date = "2025-02-17"
+description = "Join us for inspiring meetings and lectures on Ayurveda, astro-medicine, and the spiritual path with Áda Inneman and other guests across the Czech Republic."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "Spirituality",
+    "Esotericism",
+    "Ayurveda",
+    "Astro-medicine",
+    "Healing",
+    "PersonalDevelopment",
+    "AlternativeMedicine",
+    "Mysteries",
+    "HolyGrail",
+    "FilmScreening",
+    "Lectures",
+    "Meetings",
+    "Concert",
+    "CzechParadise",
+    "HrubáSkála",
+    "GalleryPathToLight",
+    "Prague",
+    "Pilsen",
+    "Pardubice",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "Spirituality and Esotericism",
+    "Personal Development and Healthy Lifestyle",
+    "Culture and Education",
+    "Religion and Mysticism",
+    "Community Gatherings and Events",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+# Dear Spiritual Siblings
 
-## Headings
+Have you seen the film _Time of the Sixth Sun_? The message of indigenous peoples with Czech dubbing by Alfred Strejček – click on [www.svobodnatelevize.cz](http://www.svobodnatelevize.cz) and enjoy!
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+## Year 2025
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+This year, **2025 = 45x45**, is the year of **45°**, whose tan 45° = 1, and one represents God.
 
-## Paragraph
+> With every inhale, I receive divine love,  
+> With upper breath retention, I absorb it further,  
+> With every exhale, I share it,  
+> With lower breath retention, I become God!
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+---
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+## **February**
 
-## Blockquotes
+- **Wed, Feb 19, 7:00 PM** - **Prague - Gallery Path to Light**
+  - **Dr. Jana Kombercová - Astro-medicine**
+  - Hosted by **Áda Inneman**
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+---
 
-#### Blockquote without attribution
+## **March**
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+- **Wed, Mar 5, 7:00 PM** - **Prague - Gallery Path to Light**
 
-#### Blockquote with attribution
+  - **Áda Inneman: Ayurveda - The Path to Longevity**
+  - Typology: **VÁT** - tall, **KAF** - broad, **PIT** - sharp-sighted
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+- **Thu, Mar 13, 6:00 PM** - **Pardubice - House of Technology**
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+  - **Discussion with Áda Inneman** and a screening of the film _Time of the Sixth Sun_
+  - (Contact: JozaMária - Tel. 777 777 689, 777 777 654)
 
-## Tables
+- **Sat, Mar 15, 6:00 PM** - **Pardubice - Spiritual School**
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+  - **All-day seminar on Ayurveda**
+  - (Contact: HanaMária - Tel. 602 121 463)
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+- **Sat, Mar 22, 9:00 AM** - **Pilsen - D-club Doubravka**
 
-#### Inline Markdown within tables
+  - **Astro-medicine and Ayurveda** - Lecture by Áda Inneman
 
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
+- **Sat & Sun, Mar 29-30, 2025** - **Czech Paradise - Hrubá Skála Castle**
+  - **Healers' Gathering from 9:00 AM** - Come with friends
+  - Registration: (Tel. 607 245 910, Email: [adainneman@seznam.cz](mailto:adainneman@seznam.cz))
+  - Affordable accommodation available at Sedmihorky Camp
+  - **Guests:** Angelologist Emil Páleš (Bratislava), Hanka Blochová - Rosa de Sar (Karlštejn Castle restorer, writer)
+  - **Saturday at 5:00 PM - Concert** by the Golden Rose Choir, conducted by Jana Konvalinková, featuring Gabriela Filippi and Patrik Kie
 
-| A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
+---
 
-## Code Blocks
+## **April**
 
-#### Code block with backticks
+- **Wed, Apr 2, 7:00 PM** - **Prague - Gallery Path to Light**
 
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
+  - **Viliam Poltikovič - Screening of the new film _Mystery of Death_**
+  - Hosted by **Áda Inneman**
 
-#### Code block indented with four spaces
+- **Wed, Apr 16, 7:00 PM** - **Prague - Gallery Path to Light**
 
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+  - **Easter _Mystery of the Holy Grail_**
+  - **Featuring:** Gabriela Filippi and Áda Inneman
 
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
+- **Sat, Apr 26, 2025** - **Czech Paradise - Hrubá Skála Castle**
+  - **Healers' Gathering from 9:00 AM** - Come with friends
+  - Registration: (Tel. 607 245 910, Email: [adainneman@seznam.cz](mailto:adainneman@seznam.cz))
+  - **Speakers:** Anna Strunecká, Jan Kumpera, Jaroslav Krček, Anna Hogenová, and Áda Inneman
 
-#### Diff code block
+---
 
-```diff
-[dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
-```
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
-## Hyperlinked image
-
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)](https://google.com)
+**We look forward to meeting you!**

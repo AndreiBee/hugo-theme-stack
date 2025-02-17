@@ -1,13 +1,12 @@
 ---
 title: O mně
-description: Hugo, the world's fastest framework for building websites
+description: Áda Inneman
 date: "2025-02-17"
 aliases:
   - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: "2020-10-09"
+lastmod: "2025-02-17"
 menu:
   main:
     weight: -90
@@ -15,20 +14,30 @@ menu:
       icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# O mně - Áda Inneman
 
-Hugo makes use of a variety of open source projects including:
+Jsem duchovní průvodce, přednášející a organizátor setkání zaměřených na duchovní růst, alternativní medicínu a sebepoznání. Již mnoho let se věnuji studiu starodávných tradic, přírodních metod léčení a hlubokému propojení těla, mysli a duše.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## Moje poslání
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Věřím, že cesta ke zdraví a štěstí vede skrze harmonii s přírodou a poznání sebe sama. Proto organizuji přednášky, workshopy a semináře zaměřené na témata, jako jsou:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- **Ajurvéda** - starodávný systém léčení a zdravého životního stylu
+- **Astromedcína** - propojení astrologie a léčení
+- **Duchovní rozvoj** - meditace, vědomé dýchání a vnitřní klid
+- **Setkání léčitelů** - sdílení poznatků a zkušeností
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Pořádané akce
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Každý měsíc organizuji různé přednášky a setkání po celé České republice, zejména v **Praze, Plzni a Pardubicích**.
+
+Pravidelně spolupracuji s odborníky z oblasti přírodního léčení, duchovního růstu a umění. Jednou z klíčových událostí je **setkání léčitelů na Zámku Hrubá Skála**, kde se scházíme ke sdílení vědomostí a vzájemné inspiraci.
+
+## Kontakt
+
+Pokud se chcete dozvědět více nebo se zúčastnit mých akcí, neváhejte mě kontaktovat:
+
+- **E-mail:** [adainneman@seznam.cz](mailto:adainneman@seznam.cz)
+- **Telefon:** 607 245 910
+
+Těším se na setkání s vámi!
