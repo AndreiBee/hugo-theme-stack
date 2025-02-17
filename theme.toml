@@ -1,11 +1,11 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Stack"
+name = "Arvion"
 license = "GPL-3.0-only"
 licenselink = "https://github.com/CaiJimmy/hugo-theme-stack/blob/master/LICENSE"
 description = "Card-style Hugo theme designed for bloggers"
-homepage = "https://github.com/CaiJimmy/hugo-theme-stack"
+homepage = ""
 demosite = "https://demo.stack.jimmycai.com"
 
 tags = ["blog", "responsive", "clean", "light", "dark", "personal"]
@@ -20,7 +20,7 @@ features = [
     "search",
 ]
 
-min_version = "0.123.0"
+min_version = "1.0.1"
 
 [author]
 name = "Andrej Pčelovodov"
