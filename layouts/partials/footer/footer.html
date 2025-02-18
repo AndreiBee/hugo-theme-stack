@@ -13,5 +13,8 @@
             {{ . | safeHTML }} <br/>
         {{ end }}
 
+        {{- $DesignedBy := `<a href="https://arvion.cz" target="_blank" rel="noopener">Arvion</a>` -}}
+
+        {{ T "footer.designedBy" (dict "DesignedBy" $DesignedBy) | safeHTML }}
     </section>
 </footer>
