@@ -25,3 +25,6 @@ min_version = "1.0.1"
 [author]
 name = "Andrej Pčelovodov"
 homepage = "https://arvion.cz"
+
+[params]
+favicon = "favicon.ico"

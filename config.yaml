@@ -11,7 +11,7 @@ params:
   favicon: /favicon.ico
 
   footer:
-    since:
+    since: 2025
     customText:
 
   dateFormat:
